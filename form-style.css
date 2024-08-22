@@ -1,0 +1,13 @@
+.out-cont {
+    margin: 0px;
+    padding: 0%;
+    height: 100vh;
+    border: 1px solid black;
+}
+
+.inner-cont {
+    border: 1px solid gray;
+    box-shadow: 0px 10px 10px gray;
+    margin: auto;
+    padding: 5%;
+}
